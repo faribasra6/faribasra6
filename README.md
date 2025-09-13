@@ -69,7 +69,7 @@ I'm always interested in discussing new projects and opportunities!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/farhan-shafaqat)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:farhanshafaqatbasra@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web)](https://farhan-shafaqat-portfolio.vercel.app/)
 
 ---
 
