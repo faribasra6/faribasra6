@@ -43,8 +43,6 @@ I'm a passionate full-stack engineer who loves creating web applications, mobile
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faribasra6&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faribasra6&layout=compact&theme=default&hide_border=true&langs_count=8&exclude_repo=repo1,repo2)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faribasra6&theme=default&hide_border=true)
